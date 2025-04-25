@@ -63,6 +63,8 @@ This project performs an in-depth exploratory data analysis (EDA) on Diabetes da
 - **Glucose is the Most Predictive Feature**  
   Among all features, glucose level had the strongest positive correlation with diabetes.
 
-## Note
+## Files
 
-All charts were generated in Python and exported to the `Project/images/` directory for easy rendering in this README.
+- `diabetes EDA project.ipynb` – main analysis notebook  
+- `diabetes.csv` – dataset used  
+- `Project/Images/` – folder with exported plots
