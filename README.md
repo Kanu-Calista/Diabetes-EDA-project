@@ -35,9 +35,12 @@ This project performs an in-depth exploratory data analysis (EDA) on Diabetes da
 - Only a small fraction are **Underweight**, suggesting a greater concern for high BMI-related health risks.
 - This trend may indicate potential lifestyle or dietary patterns in the population sampled
 
+![BMI Category](https://github.com/Kanu-Calista/Diabetes-EDA-project/blob/main/Project/Images/Diabetes_Outome_Across_Age_Groups.png?raw=true)
+
 ### 3. Blood Pressure Category Distribution
 
 No significant difference in blood pressure between diabetic and non-diabetic individuals, though outliers exist in both groups
+
 
 ### 4. Correlation Heatmap
 
