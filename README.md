@@ -4,6 +4,14 @@
 
 This project performs an in-depth exploratory data analysis (EDA) on Diabetes dataset to uncover insights and visualize key trends. The dataset contains information on the age, glucose levels, BMI, bloodpressure and their outcome.
 
+## Libraries & Tool
+
+- Python 
+- Pandas, NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
 ## Tasks Completed
 
 ### Data Cleaning
@@ -54,13 +62,6 @@ This project performs an in-depth exploratory data analysis (EDA) on Diabetes da
   Overweight and obese individuals had a higher rate of diabetes compared to those with normal BMI.
 - **Glucose is the Most Predictive Feature**  
   Among all features, glucose level had the strongest positive correlation with diabetes.
-
-## Libraries & Tool
-
-- Python 
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Jupyter Notebook
 
 ## Note
 
