@@ -20,7 +20,7 @@ This project performs an in-depth exploratory data analysis (EDA) on Diabetes da
 - Compared diabetes outcomes across age groups and BMI categories.
 - Used a correlation heatmap to identify feature relationships.
 
-## 📊 Key Visualizations & Insights
+## 📊 Key Visualizations
 
 ### 1. Age Distribution
 
@@ -46,6 +46,8 @@ No significant difference in blood pressure between diabetic and non-diabetic in
 
 - **BMI** and **Glucose** show strong positive correlation with diabetes outcome.
 - **Age** has a moderate correlation with **Glucose** and **BMI**, Indicating increased risk with age.
+
+![correalation matrix](https://github.com/Kanu-Calista/Diabetes-EDA-project/blob/main/Project/Images/Correlation_matrix.png?raw=true)
 
 ## Key Insights 
 
