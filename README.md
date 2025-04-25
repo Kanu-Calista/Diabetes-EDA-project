@@ -37,12 +37,7 @@ This project performs an in-depth exploratory data analysis (EDA) on Diabetes da
 
 ![BMI Category](https://github.com/Kanu-Calista/Diabetes-EDA-project/blob/main/Project/Images/Diabetes_distribution%20_by_BMI_category.png?raw=true)
 
-### 3. Blood Pressure Category Distribution
-
-No significant difference in blood pressure between diabetic and non-diabetic individuals, though outliers exist in both groups
-
-
-### 4. Correlation Heatmap
+### 3. Correlation Heatmap
 
 - **BMI** and **Glucose** show strong positive correlation with diabetes outcome.
 - **Age** has a moderate correlation with **Glucose** and **BMI**, Indicating increased risk with age.
@@ -69,4 +64,4 @@ No significant difference in blood pressure between diabetic and non-diabetic in
 
 ## Note
 
-All charts were generated in Python and exported to the `/images/` directory for easy rendering in this README.
+All charts were generated in Python and exported to the `Project/images/` directory for easy rendering in this README.
