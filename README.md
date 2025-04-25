@@ -1,4 +1,4 @@
-# DIABETES EDA PROJECT
+# Exploratory Data Analysis With Python
 
 ## Overview
 
@@ -26,6 +26,7 @@ This project performs an in-depth exploratory data analysis (EDA) on Diabetes da
 
 - Most individuals fall within the **25–40** age range.
 - There is a noticeable drop-off in participants over 60 years old.
+![Age Group](Images/age_group.png)
 
 ### 2. BMI Category Distribution
 
