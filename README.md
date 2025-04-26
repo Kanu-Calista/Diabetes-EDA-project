@@ -32,7 +32,7 @@ This project performs an in-depth exploratory data analysis (EDA) on Diabetes da
 
 ### 1. Age Distribution
 
-- Most individuals fall within the **25–40** age range.
+- Most individuals fall within the **30-50** age range.
 - There is a noticeable drop-off in participants over 60 years old.
   
 ![Age Group](https://github.com/Kanu-Calista/Diabetes-EDA-project/blob/main/Project/Images/Diabetes_Outome_Across_Age_Groups.png?raw=true)
